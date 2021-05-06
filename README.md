@@ -5,7 +5,7 @@
 En este repositorio de GitHub fue desarrollado por los alumnos:
 
 - José Abraham González Navarro - A00369832
-- NOMBRE - MATRICULA
+- Brenda Cristina Yépiz Moreno - A01633793
 - NOMBRE - MATRICULA
 - NOMBRE - MATRICULA
 - NOMBRE - MATRICULA
